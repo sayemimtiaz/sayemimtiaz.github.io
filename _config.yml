@@ -1,10 +1,10 @@
 ### your site title here
-title: Lorenzo Carnevale
-description: Assistant Professor at University of Messina
+title: Sayem Mohammad Imtiaz
+description: Graduate Research Assistant at Iowa State University
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: lcarnevale@unime.it
+email: sayem@iastate.edu
 
 highlighter: rouge
 markdown: kramdown
@@ -17,14 +17,14 @@ markdown: kramdown
 # Social media links in footer
 # facebook: "#"
 # twitter: "#"
-linkedin: "lorenzocarnevale"
-github: "lcarnevale"
+linkedin: "sayemimtiaz"
+github: "sayemimtiaz"
 # researchgate: "#"
-orcid: "0000-0002-1349-341X"
-google_analytics: "G-V0TBR5PTVH"
-scopus: "57195963279"
-google_scholar: "_5EzmTwAAAAJ&hl=it"
-flickr: "lorenzocarnevale"
+orcid: "0000-0002-0357-0098"
+#google_analytics: ""
+#scopus: "57195963279"
+google_scholar: "217wW-YAAAAJ"
+#flickr: "lorenzocarnevale"
 
 
 # highlighter: rouge
