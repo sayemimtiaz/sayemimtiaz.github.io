@@ -7,36 +7,18 @@ published: true
 
 ## Journal Papers
 
+#### 2023
+1. Samantha Syeda Khairunnesa, Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Hridesh Rajan, and Gary T. Leavens. "*What Kinds of Contracts Do ML APIs Need?*". Empirical Software Engineering (EMSE).
+
+
 #### 2020
-0. Lorenzo Carnevale and Antonio Celesti and Giacomo Fiumara and Antonino Galletta and Massimo Villari. "*Investigating classification supervised learning approaches for the identification of critical patients' posts in a healthcare social network*". Applied Soft Computing, Elsevier, vol. 90, pp. 106155, ISSN: 1568-4946 (May 2020) (doi: [10.1016/j.asoc.2020.106155](https://doi.org/10.1016/j.asoc.2020.106155)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202005-paper-journal-elsevier-applied_soft_computing.bib)]
-
-0. Sandra Schüssler and Julia Zuschnegg and Lucas Paletta and Maria Fellner and Gerald Lodron and Josef Steiner and Sandra Pansy-Resch and Lara Lammer and Dimitrios Prodromou and Sebastian Brunsch and Magdalena Holter and Lorenzo Carnevale and Silvia Russegger. "*The Effects of a Humanoid Socially Assistive Robot Versus Tablet Training on Psychosocial and Physical Outcomes of Persons With Dementia: Protocol for a Mixed Methods Study*". JMIR Research Protocols, JMIR Publications, vol. 9-2, pp. 14927, ISSN: 1929-0748 (February 2020) (doi: [10.2196/14927](https://doi.org/10.2196/14927)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202002-paper-journal-jmir-research_protocols.bib)]
-
-0. Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. "A Big Data Analytics Approach for the Development of Advanced Cardiology Applications". Information, MDPI, vol. 11-2, pp. 60, ISSN: 2078-2489 (January 2020) (doi: [10.3390/info11020060](http://doi.org/10.3390/info11020060)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202001-paper-journal-mdpi-information.bib)]
-{: reversed="reversed"}
+1. Pengfei Li, Farzana R Chowdhury, Peirong Wang, and **Sayem Mohammad Imtiaz**. "*Actuated traffic signal performance evaluation along arterials using Wi-Fi travel time samples and high-resolution traffic signal events data*". Transportation Research Record, SAGE Publications, vol. 2674, pp. 268-280, 2020 [[Link](https://journals.sagepub.com/doi/pdf/10.1177/0361198120918869?casa_token=eBwZTgQQvgMAAAAA:t6Qjq2L0mQh6n8Le85UTWoqcttaR9kbD0mgP-CYaF5jUkj3EwQKZOq-WqHnZqxyuVCgWVuXp13Xc)]
 
 
-#### 2019
-0. Antonio Celesti and Davide Mulfari and Antonino Galletta and Maria Fazio and Lorenzo Carnevale and Massimo Villari. "*A study on container virtualization for guarantee quality of service in Cloud-of-Things*". Future Generation Computer Systems, Elsevier, vol. 99, pp. 356-364, ISSN: 0167-739X (October 2019) (doi: [10.1016/j.future.2019.03.055](https://doi.org/10.1016/j.future.2019.03.055)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201910-paper-journal-elsevier-future_generation_computer_systems.bib)]
+#### 2014
+1. Kaushik Deb, **Sayem Mohammad Imtiaz**, Priyam Biswas. "*A motion region detection and tracking method*". Cloud Computing, IEEE, vol. 4, issue: 1, pp. 79-90, 2014 [[Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02464906)]
 
-0. Lorenzo Carnevale and Antonio Celesti and Antonino Galletta and Schahram Dustdar and Massimo Villari. "*Osmotic computing as a distributed multi-agent system: The Body Area Network scenario*". Internet of Things, Elsevier, vol. 5, pp. 130-139, ISSN: 2542-6605 (March 2019) (doi: [10.1016/j.iot.2019.01.001](https://doi.org/10.1016/j.iot.2019.01.001)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201903-paper-journal-elsevier-internet_of_things.bib)]
 
-0. Antonio Celesti and Maria Fazio and Antonino Galletta and Lorenzo Carnevale and Jiafu Wan and Massimo Villari. "*An approach for the secure management of hybrid cloud–edge environments*". Future Generation Computer Systems, Elsevier, vol.90, pp. 1-19, ISSN: 0167-739X (January 2019) (doi: [10.1016/j.future.2018.06.043](https://doi.org/10.1016/j.future.2018.06.043)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201901-paper-journal-elsevier-future_generation_computer_systems.bib)]
-{: reversed="reversed"}
-
-#### 2018
-0. Lorenzo Carnevale and Antonio Celesti and Maria Di Pietro and Antonino Galletta. "*How to Conceive Future Mobility Services in Smart Cities According to the FIWARE frontierCities Experience*". Cloud Computing, IEEE, vol. 5-5, pp. 25-36, ISSN: 2325-6095 (October 2018) (doi: [10.1109/MCC.2018.053711664](https://doi.org/10.1109/MCC.2018.053711664)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201810-paper-journal-ieee-cloud_computing.bib)]
-
-0. Lorenzo Carnevale and Rocco Salvatore Calabrò and Antonio Celesti and Antonino Leo and Maria Fazio and Placido Bramanti and Massimo Villari. "*Toward Improving Robotic-Assisted Gait Training: Can Big Data Analysis Help Us?*". Internet of Things Journal, IEEE, vol. 6-2, pp. 1419-1426, ISSN: 2327-4662 (July 2018) (doi: [10.1109/JIOT.2018.2855937](https://doi.org/10.1109/JIOT.2018.2855937)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201807-paper-journal-ieee-internet_of_things.bib)]
-
-0. Antonino Galletta and Lorenzo Carnevale and Alessia Bramanti and Maria Fazio. "*An Innovative Methodology for Big Data Visualization for Telemedicine*". Transactions on Industrial Informatics, IEEE, vol. 15-1, pp. 490-497, ISSN: 1551-3203 (May 2018) (doi: [10.1109/TII.2018.2842234](https://doi.org/10.1109/TII.2018.2842234)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201805-paper-journal-ieee-transactions_on_industrial_informatics.bib)]
-{: reversed="reversed"}
-
-#### 2017
-0. Antonio Celesti and Antonino Galletta and Lorenzo Carnevale and Maria Fazio and Aime Ĺay-Ekuakille and Massimo Villari. "*An IoT Cloud System for Traffic Monitoring and Vehicular Accidents Prevention Based on Mobile Sensor Data Processing*". Sensors Journal, IEEE, vol. 18-12, pp. 4795-4802, ISSN: 1530-437X (November 2017) (doi: [10.1109/JSEN.2017.2777786](https://doi.org/10.1109/JSEN.2017.2777786)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-sensors.bib)]
-
-0. Antonino Galletta and Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. "*A Cloud-Based System for Improving Retention Marketing Loyalty Programs in Industry 4.0: A Study on Big Data Storage Implications*". IEEE Access, IEEE, vol. 6, pp. 5485-5492, ISSN: 2169-3536 (November 2017) (doi: [10.1109/ACCESS.2017.2776400](https://doi.org/10.1109/ACCESS.2017.2776400)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-access.bib)]
-{: reversed="reversed"}
 
 ## Conference Papers
 
