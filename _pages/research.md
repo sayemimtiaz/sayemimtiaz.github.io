@@ -6,17 +6,11 @@ published: true
 ---
 
 ## Research
-My research interests fall in three macro-areas of computer science and engineering:
-- distributed systems
-- intelligent and autonomous systems
-- algorithms and optimization
+Broadly, my research interest spans three domains of computer science and engineering:
+- software engineering
+- programming language
+- deep learning
 
-Focuses I have interested on are:
-- Wireless Sensor Networks
-- Edge Computing
-- [Edge Intelligence]({{site.baseurl}}/research/edge-ai)
-- Federated Learning
-- Autonomous Vehicles
-- Reinforcement Learning
-- Swarm Intelligence
-- Genetic Algorithms
+Focuses I have interested in are:
+- [Test]({{site.baseurl}}/research/edge-ai)
+
