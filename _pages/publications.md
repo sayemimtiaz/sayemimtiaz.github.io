@@ -5,21 +5,6 @@ permalink: /publications/
 published: true
 ---
 
-## Journal Papers
-
-#### 2023
-1. Samantha Syeda Khairunnesa, Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Hridesh Rajan, and Gary T. Leavens. "*What Kinds of Contracts Do ML APIs Need?*". Empirical Software Engineering (EMSE).
-
-
-#### 2020
-1. Pengfei Li, Farzana R Chowdhury, Peirong Wang, and **Sayem Mohammad Imtiaz**. "*Actuated traffic signal performance evaluation along arterials using Wi-Fi travel time samples and high-resolution traffic signal events data*". Transportation Research Record, SAGE Publications, vol. 2674, pp. 268-280, 2020 [[Link](https://journals.sagepub.com/doi/pdf/10.1177/0361198120918869?casa_token=eBwZTgQQvgMAAAAA:t6Qjq2L0mQh6n8Le85UTWoqcttaR9kbD0mgP-CYaF5jUkj3EwQKZOq-WqHnZqxyuVCgWVuXp13Xc)]
-
-
-#### 2014
-1. Kaushik Deb, **Sayem Mohammad Imtiaz**, Priyam Biswas. "*A motion region detection and tracking method*". Cloud Computing, IEEE, vol. 4, issue: 1, pp. 79-90, 2014 [[Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02464906)]
-
-
-
 ## Conference Papers
 
 #### 2023
@@ -41,6 +26,19 @@ published: true
 
 #### 2018
 1. **Sayem Mohammad Imtiaz**, and Tanmay Bhowmik. “*Towards data-driven vulnerability prediction for requirements*”. Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Orlando, Florida, USA, 2018 [[Link](https://dl.acm.org/doi/abs/10.1145/3236024.3264836)]
+## Journal Papers
+
+#### 2023
+1. Samantha Syeda Khairunnesa, Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Hridesh Rajan, and Gary T. Leavens. "*What Kinds of Contracts Do ML APIs Need?*". Empirical Software Engineering (EMSE).
+
+
+#### 2020
+1. Pengfei Li, Farzana R Chowdhury, Peirong Wang, and **Sayem Mohammad Imtiaz**. "*Actuated traffic signal performance evaluation along arterials using Wi-Fi travel time samples and high-resolution traffic signal events data*". Transportation Research Record, SAGE Publications, vol. 2674, pp. 268-280, 2020 [[Link](https://journals.sagepub.com/doi/pdf/10.1177/0361198120918869?casa_token=eBwZTgQQvgMAAAAA:t6Qjq2L0mQh6n8Le85UTWoqcttaR9kbD0mgP-CYaF5jUkj3EwQKZOq-WqHnZqxyuVCgWVuXp13Xc)]
+
+
+#### 2014
+1. Kaushik Deb, **Sayem Mohammad Imtiaz**, Priyam Biswas. "*A motion region detection and tracking method*". Cloud Computing, IEEE, vol. 4, issue: 1, pp. 79-90, 2014 [[Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02464906)]
+
 
 
 ## Technical Report
