@@ -26,6 +26,9 @@ published: true
 
 #### 2018
 1. **Sayem Mohammad Imtiaz**, and Tanmay Bhowmik. “*Towards data-driven vulnerability prediction for requirements*”. Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Orlando, Florida, USA, 2018 [[Link](https://dl.acm.org/doi/abs/10.1145/3236024.3264836)]
+
+
+
 ## Journal Papers
 
 #### 2023
