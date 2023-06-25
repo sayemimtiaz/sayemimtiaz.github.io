@@ -10,7 +10,7 @@ published: true
 #### 2023
 1. Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Samantha Khairunnesa, and Hridesh Rajan. “*Design by Contract for Deep Learning APIs*.” Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), San Francisco, USA, 2023
 
-2. **Sayem Mohammad Imtiaz**, Fraol Batole, Astha Singh, Rangeet Pan, Breno Dantas Cruz, and Hridesh Rajan. “*Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement*.” 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), Melbourne, Australia, May 2023 [[Link](https://arxiv.org/abs/2212.05970)]
+2. **Sayem Mohammad Imtiaz**, Fraol Batole, Astha Singh, Rangeet Pan, Breno Dantas Cruz, and Hridesh Rajan. “*Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement*.” 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), Melbourne, Australia, May 2023 [[Link](https://arxiv.org/abs/2212.05970)][[Code](https://github.com/sayemimtiaz/DecomposeRNNintoModules)]
 
 #### 2022
 1. David OBrien, Sumon Biswas, **Sayem Mohammad Imtiaz**, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan. “*23 shades of self-admitted technical debt: an empirical study on machine learning software*”. Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Singapore, 2022 [[Link](https://dl.acm.org/doi/abs/10.1145/3540250.3549088)]
@@ -21,10 +21,10 @@ published: true
 
 
 #### 2020
-1. **Sayem Mohammad Imtiaz**, Kazi Zakia Sultana, and Tanmay Bhowmik. “*SecureChange: An Automated Framework to Guide Programmers in Fixing Vulnerability*.” The Thirty Second International Conference on Software Engineering and Knowledge Engineering (SEKE 2020), 2020 [[Link](https://ieeexplore.ieee.org/abstract/document/9671757/)]
+1. **Sayem Mohammad Imtiaz**, Kazi Zakia Sultana, and Tanmay Bhowmik. “*SecureChange: An Automated Framework to Guide Programmers in Fixing Vulnerability*.” The Thirty Second International Conference on Software Engineering and Knowledge Engineering (SEKE 2020), 2020 [[Link](https://d1wqtxts1xzle7.cloudfront.net/76499112/paper132-libre.pdf?1639659060=&response-content-disposition=inline%3B+filename%3DSecureChange_An_Automated_Framework_to_G.pdf&Expires=1687726374&Signature=H6cjkEY~HxQoGMI0x7uP6w4Oy-IIbFOwag-hvzlBpCp08P13TTjbShgwf2XoJf2VJxo2akoQ1etBjAZucYTO4~Ic32h~Mg0tPJRdFfIQLSSAGg4~uJm82O4Zh9X8RUv1lUEsmJ9YErXwlE~r6RI291TCwbyEyIgjOc3KM5eyE8c5fmS7ni7uHDKoQeyxntLvDayMTSnYkuoDIlvzMqHDSAfk9Gl1hGnR8kk4u~dlqTy8ygrg5lkCVJwjhk4GXS01xXdtFWC6u4FVZ9rOcS3yL0bpdv25C~MAR1P0icxirw1F1mwj~C0HPnRLczv8lR0VBgeHETMxayzHccifB09wgQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
 #### 2018
-1. **Sayem Mohammad Imtiaz**, and Tanmay Bhowmik. “*Towards data-driven vulnerability prediction for requirements*”. Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Orlando, Florida, USA, 2018 [[Link](https://dl.acm.org/doi/abs/10.1145/3236024.3264836)]
+1. **Sayem Mohammad Imtiaz**, and Tanmay Bhowmik. “*Towards data-driven vulnerability prediction for requirements*.” Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Orlando, Florida, USA, 2018 [[Link](https://dl.acm.org/doi/abs/10.1145/3236024.3264836)]
 
 
 
