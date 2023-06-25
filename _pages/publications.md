@@ -17,7 +17,7 @@ published: true
 
 #### 2021
 1. **Sayem Mohammad Imtiaz**, Kazi Zakia Sultana, and Aparna S Varde. “*Mining Learner-friendly Security Patterns from Huge Published Histories of Software Applications for an Intelligent Tutoring System in Secure Coding*.” 2021 IEEE International Conference on Big Data (Big Data), 2021 [[Link](https://ieeexplore.ieee.org/abstract/document/9671757/)]
-2. **Sayem Mohammad Imtiaz**, Md Rayhan Amin, Anh Quoc Do, Stefano Iannucci, Tanmay Bhowmik. “*Predicting vulnerability for requirements*”. 2021 IEEE 22nd International Conference on Information Reuse and Integration for Data Science (IRI), 2021 [[Link](https://d1wqtxts1xzle7.cloudfront.net/76499112/paper132-libre.pdf?1639659060=&response-content-disposition=inline%3B+filename%3DSecureChange_An_Automated_Framework_to_G.pdf&Expires=1686847283&Signature=AxuCoCiD7MnQ6PCbJ57MCyHYodix2pY063T2DcnPBft9X3VBQQfNFhFkXWQcqEnnLQst6iIZnYnLX~KfJgTaWCsWKc0~1Sd2xJMq5J~ITeVqkfaEGnCUfSwG4f1Pm65ZkaBo8-2cr~CgRynprn5TO8a~LAnMKFRCf3S3L2LUFJ-yi7UoTc~E2auVAPmKUVdYvkm-SnGIOrIwG0ohuVZeCIeZBvYFub0vyioxFMYJS4DOEzv2YPNAWKyUexeJTCbey3BV85Y~onFsXZUu3xVXbrrjRBtxAtrDktYCSNFBlRZfjH~4asoPjAcSlPHvptE4Fye0lmesCjPyy70ak7jdnw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
+2. **Sayem Mohammad Imtiaz**, Md Rayhan Amin, Anh Quoc Do, Stefano Iannucci, Tanmay Bhowmik. “*Predicting vulnerability for requirements*”. 2021 IEEE 22nd International Conference on Information Reuse and Integration for Data Science (IRI), 2021 [[Link](https://ieeexplore.ieee.org/abstract/document/9599104)]
 
 
 #### 2020
