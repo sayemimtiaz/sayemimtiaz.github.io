@@ -170,3 +170,65 @@ blockquote {
 
 .scroll::-webkit-scrollbar {
   display: none; }
+
+html[data-theme=light] {
+    color-scheme: light;
+    --color-surface-1: hsl(0deg 0% 100%);
+    --color-surface-2: hsl(0deg 0% 95%);
+    --color-surface-3: hsl(0deg 0% 92%);
+    --color-surface-4: hsl(0deg 0% 75%);
+    --color-surface-5: hsl(0deg 0% 55%);
+    --color-surface-6: hsl(0deg 0% 35%);
+    --color-surface-7: hsl(0deg 0% 23%);
+    --color-surface-8: hsl(0deg 0% 13%);
+    --color-text-normal: var(--color-surface-8);
+    --color-text-soft: var(--color-surface-6);
+    --color-text-emphasis: black;
+    --color-text-inverted: white;
+    --color-border: var(--color-surface-4);
+    --color-scrollbar-thumb: var(--color-surface-4);
+}
+
+html {
+    --size-font-xs: clamp(0.75rem, 0.67vw + 0.6rem, 1rem);
+    --size-font-sm: clamp(0.88rem, 0.67vw + 0.73rem, 1.13rem);
+    --size-font-base: clamp(1rem, 0.67vw + 0.85rem, 1.25rem);
+    --size-font-md: clamp(1.13rem, 0.83vw + 0.94rem, 1.44rem);
+    --size-font-lg: clamp(1.25rem, 1vw + 1.03rem, 1.63rem);
+    --size-font-xl: clamp(1.38rem, 1.67vw + 1rem, 2rem);
+    --size-font-2xl: clamp(1.63rem, 1.67vw + 1.25rem, 2.25rem);
+    --size-font-3xl: clamp(1.88rem, 2.33vw + 1.35rem, 2.75rem);
+    --size-font-4xl: clamp(2.5rem, 6vw + 1.15rem, 4.75rem);
+}
+
+html {
+    --size-leading-4xs: 1;
+    --size-leading-3xs: 1.2;
+    --size-leading-2xs: 1.3;
+    --size-leading-xs: 1.4;
+    --size-leading-sm: 1.5;
+    --size-leading-base: 1.6;
+    --size-leading-md: 1.7;
+    --size-leading-lg: 1.8;
+    --size-tracking-xs: -0.5px;
+    --size-tracking-sm: -0.25px;
+    --size-tracking-md: 0.25px;
+    --size-tracking-lg: 1px;
+    --size-spacing--4: 2px;
+    --size-spacing--3: 4px;
+    --size-spacing--2: 8px;
+    --size-spacing--1: 12px;
+    --size-spacing-0: 16px;
+    --size-spacing-1: 18px;
+    --size-spacing-2: 20px;
+    --size-spacing-3: 24px;
+    --size-spacing-4: 28px;
+    --size-spacing-5: 32px;
+    --size-spacing-6: 36px;
+    --size-spacing-7: 40px;
+    --size-spacing-8: 48px;
+    --size-spacing-9: 56px;
+    --size-spacing-10: 64px;
+    --size-spacing-11: 76px;
+    --size-spacing-12: 96px;
+}
