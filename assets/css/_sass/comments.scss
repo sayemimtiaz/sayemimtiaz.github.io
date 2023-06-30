@@ -102,3 +102,7 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+.post-comment-author {
+    border-radius: var(--size-spacing--4);
+    padding: var(--size-spacing--3) var(--size-spacing--2);
+}
