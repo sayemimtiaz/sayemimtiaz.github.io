@@ -121,6 +121,6 @@ a.pill:is(:focus,:hover,[aria-current=page]) {
 }
 a.button:hover
 {
-    background-color: var(--color-focus-bg);
-    color: var(--color-text-inverted)
+    background-color: rgba(100,100,100,0.5);
+    color: white
 }
