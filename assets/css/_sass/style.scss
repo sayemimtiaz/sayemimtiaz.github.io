@@ -232,3 +232,29 @@ html {
     --size-spacing-11: 76px;
     --size-spacing-12: 96px;
 }
+html {
+    --font-family-body: Fira Sans,Sans-fallback;
+    --font-weight-body-regular: 400;
+    --font-weight-body-bold: 700;
+    --font-family-mono: IBM Plex Mono,Monaco,Consolas,Courier New,monospace;
+    --font-weight-mono-regular: 400;
+    --font-weight-mono-medium: 500;
+    --font-weight-mono-bold: 700;
+}
+html[data-theme=light] {
+    color-scheme: light;
+    --color-surface-1: hsl(0deg 0% 100%);
+    --color-surface-2: hsl(0deg 0% 95%);
+    --color-surface-3: hsl(0deg 0% 92%);
+    --color-surface-4: hsl(0deg 0% 75%);
+    --color-surface-5: hsl(0deg 0% 55%);
+    --color-surface-6: hsl(0deg 0% 35%);
+    --color-surface-7: hsl(0deg 0% 23%);
+    --color-surface-8: hsl(0deg 0% 13%);
+    --color-text-normal: var(--color-surface-8);
+    --color-text-soft: var(--color-surface-6);
+    --color-text-emphasis: black;
+    --color-text-inverted: white;
+    --color-border: var(--color-surface-4);
+    --color-scrollbar-thumb: var(--color-surface-4);
+}
