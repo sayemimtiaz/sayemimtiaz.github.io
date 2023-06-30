@@ -1,0 +1,102 @@
+.stack {
+    display: flex;
+    flex-direction: column;
+}
+.gap-10 {
+    gap: var(--size-spacing-10);
+}
+.comment-actions {
+    margin-top: var(--size-spacing-5);
+}
+
+.comment-actions {
+    margin-top: var(--size-spacing-5);
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex {
+    display: flex;
+}
+
+.gap-0 {
+    gap: var(--size-spacing-0);
+}
+
+.button {
+    --outline-offset: var(--outline-thickness);
+    --outline-color: var(--color-surface-8);
+    background-color: var(--color-surface-8);
+    color: var(--color-text-inverted);
+    padding: var(--size-spacing--2) var(--size-spacing-0);
+    border-radius: var(--size-spacing--4);
+    text-decoration: none;
+}
+.comment-button {
+    display: flex;
+    align-items: center;
+    gap: var(--size-spacing--2);
+}
+div {
+    display: block;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.post-comment {
+    --avatar-size: var(--size-spacing-5);
+    --meta-spacing: var(--size-spacing--2);
+}
+.post-comment-meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--size-spacing--2);
+}
+.post-comment-avatar {
+    align-self: flex-start;
+    width: var(--avatar-size);
+}
+.circle {
+    aspect-ratio: 1;
+    border-radius: 50%;
+}
+.post-comment-username {
+    font-family: var(--font-family-body);
+    font-weight: var(--font-weight-body-bold);
+}
+.size-font-sm, small {
+    font-size: var(--size-font-sm);
+}
+.pill[data-size=xs] {
+    padding: var(--size-spacing--4) var(--size-spacing--1);
+    font-size: var(--size-font-xs);
+    font-family: var(--font-family-mono);
+    font-weight: var(--font-weight-mono-medium);
+}
+.pill[data-shape=round] {
+    border-radius: var(--size-spacing-8);
+}
+.pill {
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    background-color: var(--color-surface-3);
+    color: var(--color-text-emphasis);
+    font-family: var(--font-family-mono);
+    font-weight: var(--font-weight-mono-regular);
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
