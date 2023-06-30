@@ -18,13 +18,12 @@ $on-laptop:        1000px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 // Do not make any changes to this file. Go to /_sass and find the appropriate SCSS file and make changes there.
-@import
-        "variables",
-        "footer-social",
-        "projects",
-        "profile",
-        "footer",
-        "style",
-        "google-fonts",
-        "comments"
-;
+@import 'variables';
+@import 'footer-social';
+@import 'projects';
+@import 'profile';
+@import 'footer';
+@import 'style';
+@import 'google-fonts';
+@import 'syntax-highlighting';
+@import 'comments';
