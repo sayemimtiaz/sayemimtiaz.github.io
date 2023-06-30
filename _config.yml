@@ -14,7 +14,7 @@ paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
-issues_repo: sayemimtiaz/sayemimtiaz.github.io
+issues_repo: sayemimtiaz/site-comments
 
 # Social media links in footer
 # facebook: "#"
