@@ -241,7 +241,7 @@ html {
     --font-weight-mono-medium: 500;
     --font-weight-mono-bold: 700;
 }
-html[data-theme=light] {
+html {
     color-scheme: light;
     --color-surface-1: hsl(0deg 0% 100%);
     --color-surface-2: hsl(0deg 0% 95%);
