@@ -109,3 +109,13 @@ p {
 ol.stack {
     list-style: none;
 }
+a.pill {
+    --color-focus-bg: var(--color-text-emphasis);
+    --outline-color: var(--color-focus-bg);
+    --outline-offset: var(--outline-thickness)
+}
+
+a.pill:is(:focus,:hover,[aria-current=page]) {
+    background-color: var(--color-focus-bg);
+    color: var(--color-text-inverted)
+}
