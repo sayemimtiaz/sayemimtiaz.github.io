@@ -258,3 +258,8 @@ html {
     --color-border: var(--color-surface-4);
     --color-scrollbar-thumb: var(--color-surface-4);
 }
+:where(a,button,input,textarea,summary,[tabindex="0"]) {
+    --outline-thickness: 0.1875rem;
+    --outline-style: solid;
+    --outline-color: currentcolor;
+}
