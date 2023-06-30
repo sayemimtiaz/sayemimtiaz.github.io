@@ -12,3 +12,7 @@ layout: default
         {% include disqus.html %}
     {% endif %}
 {% endif %}
+
+{% if page.comments_id %}
+  {% include comments.html issue_id=page.comments_id %}
+{% endif %}
