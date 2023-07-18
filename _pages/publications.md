@@ -21,7 +21,7 @@ published: true
 
 
 #### 2020
-1. **Sayem Mohammad Imtiaz**, Kazi Zakia Sultana, and Tanmay Bhowmik. “*SecureChange: An Automated Framework to Guide Programmers in Fixing Vulnerability*.” The Thirty Second International Conference on Software Engineering and Knowledge Engineering (SEKE 2020), 2020 [[Link](https://d1wqtxts1xzle7.cloudfront.net/76499112/paper132-libre.pdf?1639659060=&response-content-disposition=inline%3B+filename%3DSecureChange_An_Automated_Framework_to_G.pdf&Expires=1687726374&Signature=H6cjkEY~HxQoGMI0x7uP6w4Oy-IIbFOwag-hvzlBpCp08P13TTjbShgwf2XoJf2VJxo2akoQ1etBjAZucYTO4~Ic32h~Mg0tPJRdFfIQLSSAGg4~uJm82O4Zh9X8RUv1lUEsmJ9YErXwlE~r6RI291TCwbyEyIgjOc3KM5eyE8c5fmS7ni7uHDKoQeyxntLvDayMTSnYkuoDIlvzMqHDSAfk9Gl1hGnR8kk4u~dlqTy8ygrg5lkCVJwjhk4GXS01xXdtFWC6u4FVZ9rOcS3yL0bpdv25C~MAR1P0icxirw1F1mwj~C0HPnRLczv8lR0VBgeHETMxayzHccifB09wgQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA){:target="_blank" rel="noopener"}]
+1. **Sayem Mohammad Imtiaz**, Kazi Zakia Sultana, and Tanmay Bhowmik. “*SecureChange: An Automated Framework to Guide Programmers in Fixing Vulnerability*.” The Thirty Second International Conference on Software Engineering and Knowledge Engineering (SEKE 2020), 2020 [[Link](https://ksiresearch.org/seke/seke20paper/paper132.pdf){:target="_blank" rel="noopener"}]
 
 #### 2018
 1. **Sayem Mohammad Imtiaz**, and Tanmay Bhowmik. “*Towards data-driven vulnerability prediction for requirements*.” Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Orlando, Florida, USA, 2018 [[Link](https://dl.acm.org/doi/abs/10.1145/3236024.3264836){:target="_blank" rel="noopener"}]
