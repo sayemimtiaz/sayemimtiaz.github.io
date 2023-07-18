@@ -10,7 +10,7 @@ published: true
 #### 2023
 1. Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Samantha Khairunnesa, and Hridesh Rajan. “*Design by Contract for Deep Learning APIs*.” Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), San Francisco, USA, 2023 [[Link](https://design.cs.iastate.edu/papers/ESEC-FSE-23a/dlcontract.pdf)]
 
-2. **Sayem Mohammad Imtiaz**, Fraol Batole, Astha Singh, Rangeet Pan, Breno Dantas Cruz, and Hridesh Rajan. “*Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement*.” 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), Melbourne, Australia, May 2023 [[Link](https://arxiv.org/abs/2212.05970)][[Code](https://github.com/sayemimtiaz/DecomposeRNNintoModules)]
+2. **Sayem Mohammad Imtiaz**, Fraol Batole, Astha Singh, Rangeet Pan, Breno Dantas Cruz, and Hridesh Rajan. “*Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement*.” 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), Melbourne, Australia, May 2023 [[Link](https://ieeexplore.ieee.org/abstract/document/10172723){:target="_blank" rel="noopener"}][[Code](https://github.com/sayemimtiaz/DecomposeRNNintoModules)]
 
 #### 2022
 1. David OBrien, Sumon Biswas, **Sayem Mohammad Imtiaz**, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan. “*23 shades of self-admitted technical debt: an empirical study on machine learning software*”. Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Singapore, 2022 [[Link](https://dl.acm.org/doi/abs/10.1145/3540250.3549088)]
