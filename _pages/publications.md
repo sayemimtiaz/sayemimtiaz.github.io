@@ -8,7 +8,7 @@ published: true
 ## Conference Papers
 
 #### 2023
-1. Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Samantha Khairunnesa, and Hridesh Rajan. “*Design by Contract for Deep Learning APIs*.” Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), San Francisco, USA, 2023
+1. Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Samantha Khairunnesa, and Hridesh Rajan. “*Design by Contract for Deep Learning APIs*.” Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), San Francisco, USA, 2023 [[Link](https://design.cs.iastate.edu/papers/ESEC-FSE-23a/dlcontract.pdf)]
 
 2. **Sayem Mohammad Imtiaz**, Fraol Batole, Astha Singh, Rangeet Pan, Breno Dantas Cruz, and Hridesh Rajan. “*Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement*.” 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), Melbourne, Australia, May 2023 [[Link](https://arxiv.org/abs/2212.05970)][[Code](https://github.com/sayemimtiaz/DecomposeRNNintoModules)]
 
@@ -31,7 +31,7 @@ published: true
 ## Journal Papers
 
 #### 2023
-1. Samantha Syeda Khairunnesa, Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Hridesh Rajan, and Gary T. Leavens. "*What Kinds of Contracts Do ML APIs Need?*". Empirical Software Engineering (EMSE).
+1. Samantha Syeda Khairunnesa, Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Hridesh Rajan, and Gary T. Leavens. "*What Kinds of Contracts Do ML APIs Need?*". Empirical Software Engineering (EMSE). [[Link](https://design.cs.iastate.edu/papers/EMSE-23/emseMLContract.pdf)]
 
 
 #### 2020
