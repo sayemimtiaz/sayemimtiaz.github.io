@@ -39,7 +39,7 @@ published: true
 
 
 #### 2014
-1. Kaushik Deb, **Sayem Mohammad Imtiaz**, Priyam Biswas. "*A motion region detection and tracking method*." Cloud Computing, IEEE, vol. 4, issue: 1, pp. 79-90, 2014 [[Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02464906){:target="_blank" rel="noopener"}]
+1. Kaushik Deb, **Sayem Mohammad Imtiaz**, Priyam Biswas. "*A motion region detection and tracking method*." SmartCR 4, no. 1 (2014): 79-90. [[Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02464906){:target="_blank" rel="noopener"}]
 
 
 
