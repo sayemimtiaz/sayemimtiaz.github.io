@@ -1,11 +1,11 @@
 ---
 title:
 layout: default
-permalink: /news/
+permalink: /activities/
 published: true
 ---
 
-## Events
+## Activities
 - **October 2023** - Will be serving as a reviewer for [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts).
 - **June 2023** - Attended the workshop on [U.S. Leadership in Software Engineering & AI Engineering Workshop](https://www.nitrd.gov/coordination-areas/spsq/usa-leadership-in-software-engineering-and-ai-engineering/).
 - **June 2023** - Will be serving as a reviewer for [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem).
