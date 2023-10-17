@@ -31,7 +31,7 @@ published: true
 ## Journal Papers
 
 #### 2023
-1. Samantha Syeda Khairunnesa, Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Hridesh Rajan, and Gary T. Leavens. "*What Kinds of Contracts Do ML APIs Need?*". Empirical Software Engineering (EMSE). [[Link](https://design.cs.iastate.edu/papers/EMSE-23/emseMLContract.pdf){:target="_blank" rel="noopener"}]
+1. Samantha Syeda Khairunnesa, Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Hridesh Rajan, and Gary T. Leavens. "*What Kinds of Contracts Do ML APIs Need?*". Empirical Software Engineering (EMSE). [[Link](https://doi.org/10.1007/s10664-023-10320-z){:target="_blank" rel="noopener"}]
 
 
 #### 2020
