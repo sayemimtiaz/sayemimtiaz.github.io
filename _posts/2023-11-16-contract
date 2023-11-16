@@ -1,0 +1,16 @@
+---
+layout: post
+title: "API Contracts 2.0: Navigating the Future of Machine Learning Development"
+comments_id: 2
+---
+
+We are pleased to announce that our research on contracts for machine learning (ML) and deep learning (DL) APIs has resulted in several publications in top-tier software engineering venues.
+
+Contracts serve as guidelines for what must be upheld both before and after an API is invoked, and failing to do so can potentially introduce bugs into software. While contracts for traditional APIs are well understood, the same level of understanding is lacking for ML APIs. Our research aims to address this gap by enhancing our understanding of ML APIs and their contracts, ultimately facilitating the development and maintenance of ML software.
+One of our studies, "What Contracts Do ML APIs Need?" led by Samantha, has been accepted for publication in the Empirical Software Engineering journal. This work involves an empirical study of four ML libraries to gain insight into API contracts within the context of the ML pipeline. Our findings shed light on the nuances and challenges of creating contracts for ML APIs and suggest several avenues for future research.
+
+Additionally, our paper "Design by Contract for Deep Learning APIs," led by Shibbir, has been accepted at the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'2023). This work proposes a proactive approach to developing bug-free DL applications from the outset by advocating for a design-by-contract methodology.
+Contracts play a crucial role in setting expectations before and after API use. Neglecting these contracts could potentially lead to software bugs. 💻🐛 While traditional APIs have well-defined contracts, the same clarity has been lacking for ML APIs – until now!
+
+
+We're excited to continue our research in this area and contribute to the development of robust and reliable ML software.
