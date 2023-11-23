@@ -6,6 +6,7 @@ published: true
 ---
 
 ## Activities
+- **November 2023** - Have been awarded 5K USD [AWS research credits](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/) for conducting research on LLMs.
 - **October 2023** - Will be serving as a reviewer for [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts).
 - **June 2023** - Attended the workshop on [U.S. Leadership in Software Engineering & AI Engineering Workshop](https://www.nitrd.gov/coordination-areas/spsq/usa-leadership-in-software-engineering-and-ai-engineering/).
 - **June 2023** - Will be serving as a reviewer for [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem).
