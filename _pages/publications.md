@@ -7,6 +7,9 @@ published: true
 
 ## Conference Papers
 
+#### 2024
+1. David OBrien, Sumon Biswas, **Sayem Mohammad Imtiaz**, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan. “*Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot*”. Proceedings of the 46th IEEE/ACM International Conference on Software Engineering, Lisbon, Portugal, 2024 
+
 #### 2023
 1. Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Samantha Khairunnesa, and Hridesh Rajan. “*Design by Contract for Deep Learning APIs*.” Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), San Francisco, USA, 2023 [[Link](https://design.cs.iastate.edu/papers/ESEC-FSE-23a/dlcontract.pdf){:target="_blank" rel="noopener"}]
 
