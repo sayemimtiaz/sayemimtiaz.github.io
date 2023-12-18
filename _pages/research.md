@@ -5,8 +5,6 @@ permalink: /research/
 published: true
 ---
 
-### Research
-<hr/>
 
 Broadly, my research interest spans three domains of computer science and engineering:
 #### Software engineering
