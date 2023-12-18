@@ -6,7 +6,7 @@ published: true
 ---
 
 ### Research
-</hr>
+<hr/>
 
 Broadly, my research interest spans three domains of computer science and engineering:
 #### Software engineering
