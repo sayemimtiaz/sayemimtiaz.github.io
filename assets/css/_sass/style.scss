@@ -3,7 +3,7 @@ html, body {
 }
 main
 {
-  margin-top: 4px;
+  margin-top: 1em;
 }
 body {
   max-width: $content-width;
@@ -169,6 +169,11 @@ blockquote {
 .article-list a
 {
   color: navy;
+}
+
+.article-list a:hover
+{
+  color: #60c17d;
 }
 
 .article-list p
