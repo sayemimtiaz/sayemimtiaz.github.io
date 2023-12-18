@@ -7,6 +7,7 @@ published: true
 
 ### Research
 </hr>
+
 Broadly, my research interest spans three domains of computer science and engineering:
 #### Software engineering
 The software has become omnipresent, permeating all aspects of our lives and influencing both routine and critical tasks. Whether it's tracking steps or assisting in complex medical procedures, software plays a vital role. Given our heavy reliance on software, the importance of efficient software engineering (SE) cannot be overstated. SE focuses on delivering techniques and methodologies that enable the development, evolution, and maintenance of software in a superior manner. It seeks to ensure the safety, robustness, and transparency of the software that people rely on so heavily. As an SE researcher, I primarily study the modularity and security aspects of the software. Modularity enables flexible, maintainable software development through reusable components, while security focuses on protecting against vulnerabilities and threats.
