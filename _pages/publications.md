@@ -4,8 +4,7 @@ layout: default
 permalink: /publications/
 published: true
 ---
-## Publication
-<hr/>
+
 ### Conference Papers
 
 #### 2024
