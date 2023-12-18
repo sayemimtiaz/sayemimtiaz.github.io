@@ -4,8 +4,9 @@ layout: default
 permalink: /publications/
 published: true
 ---
-
-## Conference Papers
+## Publication
+<hr/>
+### Conference Papers
 
 #### 2024
 - David OBrien, Sumon Biswas, **Sayem Mohammad Imtiaz**, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan. “*Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot*”. Proceedings of the 46th IEEE/ACM International Conference on Software Engineering, Lisbon, Portugal, 2024 [[Link](https://sumonbis.github.io/uploads/td-copilot-ICSE24.pdf){:target="_blank" rel="noopener"}]
@@ -31,7 +32,7 @@ published: true
 
 
 
-## Journal Papers
+### Journal Papers
 
 #### 2023
 - Samantha Syeda Khairunnesa, Shibbir Ahmed, **Sayem Mohammad Imtiaz**, Hridesh Rajan, and Gary T. Leavens. "*What Kinds of Contracts Do ML APIs Need?*". Empirical Software Engineering (EMSE). [[Link](https://doi.org/10.1007/s10664-023-10320-z){:target="_blank" rel="noopener"}]
