@@ -19,7 +19,9 @@ body {
     color: $text-color-dark;
   }
 }
-
+b {
+  font-weight: bold;
+}
 h1,h2,h3,h4,h5,h6 {
   font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: bold;
