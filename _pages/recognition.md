@@ -14,7 +14,7 @@ published: true
 - **Fellowship:** Bagley College of Engineering Fellowship, Mississippi State University, Mississippi, USA. 
 
 #### Services
-- **TOSEM Reviewer:** ACM Transactions on Software Engineering and Methodology (TOSEM) since June 2023. This is a Q1 journal of software engineering. Verified in [Web of Science](https://www.webofscience.com/wos/author/record/IWD-9819-2023).
-- **TSE Reviewer:** IEEE Transactions on Software Engineering (TSE) since October 2023. This is a flagship journal of software engineering. Verified in [Web of Science](https://www.webofscience.com/wos/author/record/IWD-9819-2023).
+- **TOSEM Reviewer:** Serving as a reviewer for ACM Transactions on Software Engineering and Methodology (TOSEM) since June 2023. This is a Q1 journal of software engineering. Verified in [Web of Science](https://www.webofscience.com/wos/author/record/IWD-9819-2023).
+- **TSE Reviewer:**  Serving as a reviewer for IEEE Transactions on Software Engineering (TSE) since October 2023. This is a flagship journal of software engineering. Verified in [Web of Science](https://www.webofscience.com/wos/author/record/IWD-9819-2023).
 - **SEKE Reviewer:** Serving as a program committee member for the [International Conference on Software Engineering & Knowledge Engineering (SEKE)](https://ksiresearch.org/) since 2021.
 - **Judge of IEEE Face The Case 3.0:** Judged the case-solving competition at [Chittagong University of Engineering & Technology](https://www.cuet.ac.bd/) during the [IEEE Face The Case 3.0](http://ieeecuetsb.com/ftc3.0/) event in 2023. 
