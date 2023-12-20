@@ -8,8 +8,7 @@ published: true
 
 
 #### Awards
-- **Publication Award:** Awarded by the Department of Computer Science, Iowa State University, for publication in a top-tier software engineering conference in *2023*.
-- **Publication Award:** Awarded by the Department of Computer Science, Iowa State University, for publication in a top-tier software engineering conference in *2022*.
+- **Publication Award:** Received *three* publication awards from the Department of Computer Science, Iowa State University, acknowledging contributions to top-tier software engineering conferences in *2022* and *2023*.
 - **NSF Travel Grant:** Grant to attend the 2023 NITRD / CMU SEI workshop on “U.S. Leadership in Software Engineering & AI Engineering: Critical Needs & Priorities” at Alexandria, VA.
 - **NSF Travel Grant:** Grant for attending the 2018 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE).
 - **Fellowship:** Bagley College of Engineering Fellowship, Mississippi State University, Mississippi, USA. 
