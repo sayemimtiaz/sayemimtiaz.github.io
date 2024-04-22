@@ -5,7 +5,7 @@ permalink: /logs/
 published: true
 ---
 
-- **April 2024** - Have been granted cloud credits under NSF ACCESS [NSF ACCESS](https://access-ci.org/) for conducting research on LLMs.
+- **April 2024** - Have been granted cloud credits under NSF ACCESS [NSF ACCESS](https://access-ci.org/) as Co-PI for conducting research on LLMs.
 - **December 2023** - Our paper, *Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot*, was accepted for publication in the proceedings of [46'th International Conference on Software Engineering](https://conf.researchr.org/track/icse-2024/icse-2024-research-track), ICSE 2024.
 - **November 2023** - Have been awarded 5K USD [AWS research credits](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/) for conducting research on LLMs.
 - **October 2023** - Will be serving as a reviewer for [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts).
