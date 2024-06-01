@@ -8,7 +8,7 @@ published: true
 ---
 
 #### Current Engagement
-As a Ph.D. student at <a href="https://www.iastate.edu/">Iowa State University</a>, I am currently conducting research in AI Engineering under the guidance of Dr. Hridesh Rajan in the Software Design lab. My research focuses on enhancing the evolvability and modularity of deep learning models, with a specific emphasis on leveraging modularity to improve the maintainability, comprehensibility, and reusability of large-scale models such as language models (LLMs). In my most recent study, presented at the International Conference on Software Engineering in 2023, I investigated the decomposition of sequential models, demonstrating the reusability facilitated by modularity.
+I am currently pursuing my PhD at [Iowa State University](https://www.iastate.edu/) under the guidance of Dr. Hridesh Rajan in the Software Design lab. My research interests lie at the intersection of software engineering and machine learning, with a focus on facilitating efficient engineering for AI systems, a field often referred to as *AI Engineering*. My PhD research has explored various aspects of deep learning models, including their decomposability, code quality, API contracts, and more. I particularly emphasize the benefits of modularity in the context of deep learning, especially for NLP models. Additionally, I investigate methods to mitigate data-driven errors in large language models through targeted strategies.
 
 
 #### Short Biography
