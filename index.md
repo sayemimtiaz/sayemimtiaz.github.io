@@ -8,7 +8,7 @@ published: true
 ---
 
 #### Current Engagement
-I am currently pursuing my PhD at [Iowa State University](https://www.iastate.edu/) under the guidance of Dr. Hridesh Rajan in the Software Design lab. My research interests lie at the intersection of software engineering and machine learning, with a focus on facilitating efficient engineering for AI systems, a field often referred to as *AI Engineering*. My PhD research has explored various aspects of deep learning models, including their decomposability, code quality, API contracts, and more. I particularly emphasize the benefits of modularity in the context of deep learning, especially for NLP models. Additionally, I investigate methods to mitigate data-driven errors in large language models through targeted strategies.
+I am currently pursuing my PhD at [Iowa State University](https://www.iastate.edu/) under the guidance of [Dr. Hridesh Rajan](https://hridesh.github.io/) in the Software Design lab. My research interests lie at the intersection of software engineering and machine learning, with a focus on facilitating efficient engineering for AI systems, a field often referred to as *AI Engineering*. My PhD research has explored various aspects of deep learning models, including their decomposability, code quality, API contracts, and more. I particularly emphasize the benefits of modularity in the context of deep learning, especially for NLP models. Additionally, I investigate methods to mitigate data-driven errors in large language models through targeted strategies.
 
 
 #### Short Biography
