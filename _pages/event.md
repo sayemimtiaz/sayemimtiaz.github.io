@@ -5,8 +5,8 @@ permalink: /logs/
 published: true
 ---
 - **May 2024** - Passed PhD Preliminary exam. Officially a PhD candidate now!
-- **May 2024** - Earned a second Master's in Computer Science, focusing on deep learning model evolution in my thesis!
-- **May 2024** - Our position paper, *Engineering Deep Learning Models Through Decomposition, Modularization, and Interface Specifications*, was accepted for discussion at the 2030 Software Engineering [SE 2030 workshop collocated with FSE 2024](https://conf.researchr.org/home/2030-se).
+- **May 2024** - Earned a second [Master's in Computer Science](https://www.cs.iastate.edu/ms-final-oral-exam-sayem-mohammad-imtiaz), focusing on deep learning model evolution in my thesis!
+- **May 2024** - Our position paper, *Engineering Deep Learning Models Through Decomposition, Modularization, and Interface Specifications*, was accepted for discussion at the [SE 2030 workshop collocated with FSE 2024](https://conf.researchr.org/home/2030-se).
 - **April 2024** - Have been granted cloud credits under [NSF ACCESS](https://access-ci.org/) as Co-PI for conducting research on LLMs.
 - **December 2023** - Our paper, *Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot*, was accepted for publication in the proceedings of [46'th International Conference on Software Engineering](https://conf.researchr.org/track/icse-2024/icse-2024-research-track), ICSE 2024.
 - **November 2023** - Have been awarded 5K USD [AWS research credits](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/) for conducting research on LLMs.
