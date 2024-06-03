@@ -2,14 +2,11 @@
 title:
 layout: default
 permalink: /projects/
-published: false
+published: true
 ---
 
-## Projects
-The following is a not exhaustive list of projects where I have been involved. It includes international and national fund projects, as well as personal (not fund) software projects.
 
-#### MicroPython Libraries and Drivers Series
-<img src="https://img.shields.io/badge/project-software-green">
+#### [News App](https://github.com/sayemimtiaz/newsapp){:target="_blank" rel="noopener"}
 
-The *upy-series* (read it as micropy series) is a collection of libraries and drivers built for MicroPython-based boards (i.e., ESP32, RP2040, etc.). It includes, i.e., drivers for YL-69 or HL-69 resistive soil moisture sensor, relays, etc.<br>
-Resources: <a href="https://github.com/lcarnevale/upy-series">repository</a>
+This is a simple web application based on the Java Spring Boot framework for creating news stories and accessing them in different data formats for consumption. I developed this web application as part of an assessment for a Java Developer position at [Cefalo](https://www.cefalo.com/en/) in 2016, which led to a job offer from them. The application uses an [in-memory SQL database](https://hsqldb.org/) for persisting data and [Thymeleaf](https://www.thymeleaf.org/) for rendering the HTML. The application has been developed using an [MVC architectural pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), promoting a loosely coupled design of the different components, making it scalable and easily maintainable. This application can serve as a good starting point for aspiring full-stack web developers aiming to leverage an MVC architecture and the Java ecosystem.
+
