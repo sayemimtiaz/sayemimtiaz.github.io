@@ -7,7 +7,7 @@ published: true
 
 #### [Boa Python](https://github.com/boalang/compiler/tree/pydatagen){:target="_blank" rel="noopener"}
 
-[Boa](https://boa.cs.iastate.edu/) is a domain-specific language developed to facilitate mining software repositories (MSR) for research. It leverages the [MapReduce algorithm](https://en.wikipedia.org/wiki/MapReduce) to scale the mining process to hundreds of thousands of projects. Originally designed for Java-based projects, Boa eases MSR tasks significantly. 
+[Boa](https://boa.cs.iastate.edu/) is a [domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language) developed to facilitate mining software repositories (MSR) for research. It leverages the [MapReduce algorithm](https://en.wikipedia.org/wiki/MapReduce) to scale the mining process to hundreds of thousands of projects. Originally designed for Java-based projects, Boa eases MSR tasks significantly. 
 
 In this project, I extended Boa to support Python-based projects, enabling large-scale program analysis for the rapidly growing field of Python, particularly in machine learning. This involved adapting the Eclipse Dynamic Language Toolkit (DLTK) for Python, which had long been unsupported. I extended the [DLTK Python](https://projects.eclipse.org/projects/technology.dltk) to accommodate new features introduced in Python 3.0 and beyond. Additionally, I added support for converting parsed Python sources into a language-independent [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree) format for Boa, and implemented advanced program analysis features such as [alias analysis](https://en.wikipedia.org/wiki/Alias_analysis) and [def-use chain analysis](https://en.wikipedia.org/wiki/Use-define_chain) for Python.
 
