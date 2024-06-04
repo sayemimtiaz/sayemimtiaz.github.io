@@ -5,6 +5,14 @@ permalink: /projects/
 published: true
 ---
 
+#### [Boa Python](https://github.com/boalang/compiler/tree/pydatagen){:target="_blank" rel="noopener"}
+
+[Boa](https://boa.cs.iastate.edu/) is a domain-specific language developed to facilitate mining software repositories (MSR) for research. It leverages the MapReduce algorithm to scale the mining process to hundreds of thousands of projects. Originally designed for Java-based projects, Boa eases MSR tasks significantly. 
+
+In this project, I extended Boa to support Python-based projects, enabling large-scale program analysis for the rapidly growing field of Python, particularly in machine learning. This involved adapting the Eclipse Dynamic Language Toolkit (DLTK) for Python, which had long been unsupported. I extended the [DLTK Python](https://projects.eclipse.org/projects/technology.dltk) to accommodate new features introduced in Python 3.0 and beyond. Additionally, I added support for converting parsed Python sources into a language-independent [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree) format for Boa, and implemented advanced program analysis features such as [alias analysis](https://en.wikipedia.org/wiki/Alias_analysis) and [def-use chain analysis](https://en.wikipedia.org/wiki/Use-define_chain) for Python.
+
+
+
 #### [Uncertainty Quantification for Deep Neural Network](https://github.com/sayemimtiaz/Uncertainty-Quantification-in-DNN){:target="_blank" rel="noopener"}
 
 This research-based project was developed as part of a graduate-level course at *Iowa State University*. In this project, we introduce a novel probabilistic first-order type system, *Uncertain<T>*, which allows programmers to explicitly represent the uncertainty of parameters involved in deep learning. This type system supports algebra over random variables, enabling the propagation of hyperparameter uncertainty through calculations, ultimately improving convergence speed and accuracy. By abstracting low-level statistical details, *Uncertain<T>* is designed to be user-friendly and accessible to a wide range of users. Developed in Python, our evaluation demonstrates that this approach helps in selecting hyperparameter values more effectively than traditional grid or random search methods.
