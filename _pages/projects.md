@@ -5,6 +5,9 @@ permalink: /projects/
 published: true
 ---
 
+#### [Uncertainty Quantification for Deep Neural Network](https://github.com/sayemimtiaz/Uncertainty-Quantification-in-DNN){:target="_blank" rel="noopener"}
+
+This research-based project was developed as part of a graduate-level course at *Iowa State University*. In this project, we introduce a novel probabilistic first-order type system, *Uncertain<T>*, which allows programmers to explicitly represent the uncertainty of parameters involved in deep learning. This type system supports algebra over random variables, enabling the propagation of hyperparameter uncertainty through calculations, ultimately improving convergence speed and accuracy. By abstracting low-level statistical details, *Uncertain<T>* is designed to be user-friendly and accessible to a wide range of users. Developed in Python, our evaluation demonstrates that this approach helps in selecting hyperparameter values more effectively than traditional grid or random search methods.
 
 #### [News App](https://github.com/sayemimtiaz/newsapp){:target="_blank" rel="noopener"}
 
@@ -19,7 +22,5 @@ This is the *News App* redone using a different technology stack as a [single-pa
 
 This project provides a web wrapper for a [bug fixing patch verification tool](https://dl.acm.org/doi/abs/10.1145/2568225.2568304) called [Hydrogen](https://github.com/iowastateuniversity-programanalysis/hydrogen). Given a patch, it aims to identify whether it breaks existing functionality. I developed this web wrapper as part of a class project at *Iowa State University*. Given multiple versions of a file, it allows users to select which pairs to analyze and run analysis on a chosen pair of files by creating a Hydrogen Docker instance on-demand. It then allows users to visualize the analysis results interactively and produce relevant demographics for the patch. I used [Spring Boot](https://spring.io/projects/spring-boot) to develop the back end and [spotify docker-client](https://mvnrepository.com/artifact/com.spotify/docker-client) to manage on-demand Docker instances.
 
-#### [Uncertainty Quantification for Deep Neural Network](https://github.com/sayemimtiaz/Uncertainty-Quantification-in-DNN){:target="_blank" rel="noopener"}
 
-This research-based project was developed as part of a graduate-level course at *Iowa State University*. In this project, we introduce a novel probabilistic first-order type system, *Uncertain<T>*, which allows programmers to explicitly represent the uncertainty of parameters involved in deep learning. This type system supports algebra over random variables, enabling the propagation of hyperparameter uncertainty through calculations, ultimately improving convergence speed and accuracy. By abstracting low-level statistical details, *Uncertain<T>* is designed to be user-friendly and accessible to a wide range of users. Developed in Python, our evaluation demonstrates that this approach helps in selecting hyperparameter values more effectively than traditional grid or random search methods.
 
