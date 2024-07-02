@@ -9,7 +9,7 @@ published: true
 
 [Boa](https://boa.cs.iastate.edu/) is a [domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language) developed to facilitate mining software repositories (MSR) for research. It leverages the [MapReduce algorithm](https://en.wikipedia.org/wiki/MapReduce) to scale the mining process to hundreds of thousands of projects. Originally designed for Java-based projects, Boa eases MSR tasks significantly. 
 
-In this project, I extended Boa to support Python-based projects, enabling large-scale program analysis for the rapidly growing field of Python, particularly in machine learning. This involved adapting the Eclipse Dynamic Language Toolkit (DLTK) for Python, which had long been unsupported. I extended the [DLTK Python](https://projects.eclipse.org/projects/technology.dltk) to accommodate new features introduced in Python 3.0 and beyond. Additionally, I added support for converting parsed Python sources into a language-independent [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree) format for Boa, and implemented advanced program analysis features such as [alias analysis](https://en.wikipedia.org/wiki/Alias_analysis) and [def-use chain analysis](https://en.wikipedia.org/wiki/Use-define_chain) for Python.
+In this project, I extended Boa to support Python-based projects, enabling large-scale program analysis for the rapidly growing field of Python, particularly in machine learning. This involved adapting the Eclipse Dynamic Language Toolkit (DLTK) for Python, which had long been unsupported. I extended the [DLTK Python](https://projects.eclipse.org/projects/technology.dltk) to accommodate new features introduced in Python 3.0 and beyond. Additionally, I added support for converting parsed Python sources into a language-independent [Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree) format for Boa and implemented advanced program analysis features such as [alias analysis](https://en.wikipedia.org/wiki/Alias_analysis) and [def-use chain analysis](https://en.wikipedia.org/wiki/Use-define_chain) for Python.
 
 
 
@@ -17,10 +17,16 @@ In this project, I extended Boa to support Python-based projects, enabling large
 
 This research-based project was developed as part of a graduate-level course at *Iowa State University*. In this project, we introduce a novel probabilistic first-order type system, *Uncertain<T>*, which allows programmers to explicitly represent the uncertainty of parameters involved in deep learning. This type system supports algebra over random variables, enabling the propagation of hyperparameter uncertainty through calculations, ultimately improving convergence speed and accuracy. By abstracting low-level statistical details, *Uncertain<T>* is designed to be user-friendly and accessible to a wide range of users. Developed in Python, our evaluation demonstrates that this approach helps in selecting hyperparameter values more effectively than traditional grid or random search methods.
 
+#### [High-Resolution Traffic Data Analysis System](https://journals.sagepub.com/doi/abs/10.1177/0361198120918869){:target="_blank" rel="noopener"}
+
+
+During my time at [Mississippi State University](https://www.msstate.edu/), I developed a comprehensive system for monitoring and analyzing the performance of the traffic signal system for the [Mississippi Department of Transportation](https://mdot.ms.gov/). This system provides an effective interface to analyze traffic data collected through Wi-Fi sensors placed at various road intersections. Notably, it enables the evaluation of traffic progressions on arterials using both the existing Purdue Coordination Diagram and a novel Multi-intersection Coordination Diagram. [The system](https://actionlab.uta.edu/UTAIM/) also forms the basis for addressing many other real-world traffic signal challenges, facilitated by [Dr. Pengfei Li's research group](https://actionlab.uta.edu/) at the [University of Texas at Arlington](https://www.uta.edu/).
+
+
 #### [Delta Debugging](https://github.com/sayemimtiaz/delta_debugging){:target="_blank" rel="noopener"}
 
 
-As part of a class project at Iowa State University, I developed a tool that utilizes [delta debugging](https://en.wikipedia.org/wiki/Delta_debugging) to identify bug-inducing changes in C programs. This tool takes a set of changes and a test suite, then employs a divide-and-conquer strategy to pinpoint the minimal set of changes that may have introduced a bug. The tool was implemented in Python.
+As part of a class project at Iowa State University, I developed a tool that utilizes [delta debugging](https://en.wikipedia.org/wiki/Delta_debugging) to identify bug-inducing changes in C programs. This tool takes a set of changes and a test suite then employs a divide-and-conquer strategy to pinpoint the minimal set of changes that may have introduced a bug. The tool was implemented in Python.
 
 #### [News App](https://github.com/sayemimtiaz/newsapp){:target="_blank" rel="noopener"}
 
