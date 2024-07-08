@@ -28,7 +28,7 @@ During my time at [Mississippi State University](https://www.msstate.edu/), I de
 
 ## Industrial Projects
 
-  #### [Prison Inmate Database System](https://www.thedailystar.net/city/database-prisoners-launched-rab-hq-214240){:target="_blank" rel="noopener"}
+#### [Prison Inmate Database System](https://www.thedailystar.net/city/database-prisoners-launched-rab-hq-214240){:target="_blank" rel="noopener"}
 As part of my role as a software engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/), I worked on a number of industrial-scale projects, including the prison inmate system. In this project, we developed a comprehensive system for efficiently indexing prisoners, overseen by the Rapid Action Battalion (RAB), a law-enforcing agency in Bangladesh. The project has three distinct modules: a [.NET](https://dotnet.microsoft.com/) desktop module to enroll prisoners, including biometric information; a backend that serves as a [Spring Web Service](https://spring.io/projects/spring-ws) operating with the SOAP protocol; and an administrative web portal that provides efficient searching and configuration of the system.
 
 I was a lead developer in this project, primarily responsible for the administrative portal and backend web services. To develop this system, we leveraged frameworks such as Spring and Hibernate. The administrative portal was developed using an MVC pattern enabled by Spring MVC. Security in both the web service and the portal was tightened through Spring Security, and the front end was designed using Bootstrap and JavaScript.
