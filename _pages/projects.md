@@ -5,7 +5,9 @@ permalink: /projects/
 published: true
 ---
 
-## Research Projects
+<details>
+  <summary><b>Research Projects</b></summary>
+  
 #### [Boa Python](https://github.com/boalang/compiler/tree/pydatagen){:target="_blank" rel="noopener"}
 
 [Boa](https://boa.cs.iastate.edu/) is a [domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language) developed to facilitate mining software repositories (MSR) for research. It leverages the [MapReduce algorithm](https://en.wikipedia.org/wiki/MapReduce) to scale the mining process to hundreds of thousands of projects. Originally designed for Java-based projects, Boa eases MSR tasks significantly. 
@@ -22,9 +24,13 @@ This research-based project was developed as part of a graduate-level course at 
 
 
 During my time at [Mississippi State University](https://www.msstate.edu/), I developed a comprehensive system for monitoring and analyzing the performance of the traffic signal system for the [Mississippi Department of Transportation](https://mdot.ms.gov/). This system provides an effective interface to analyze traffic data collected through Wi-Fi sensors placed at various road intersections. Notably, it enables the evaluation of traffic progressions on arterials using both the existing Purdue Coordination Diagram and a novel Multi-intersection Coordination Diagram. [The system](https://actionlab.uta.edu/UTAIM/) also forms the basis for addressing many other real-world traffic signal challenges, facilitated by [Dr. Pengfei Li's research group](https://actionlab.uta.edu/) at the [University of Texas at Arlington](https://www.uta.edu/).
+</details>
 
-## Industrial Projects
-#### [Prison Inmate Database System](https://www.thedailystar.net/city/database-prisoners-launched-rab-hq-214240){:target="_blank" rel="noopener"}
+
+<details>
+  <summary><b>Industrial Projects</b></summary>
+
+  #### [Prison Inmate Database System](https://www.thedailystar.net/city/database-prisoners-launched-rab-hq-214240){:target="_blank" rel="noopener"}
 As part of my role as a software engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/), I worked on a number of industrial-scale projects, including the prison inmate system. In this project, we developed a comprehensive system for efficiently indexing prisoners, overseen by the Rapid Action Battalion (RAB), a law-enforcing agency in Bangladesh. The project has three distinct modules: a [.NET](https://dotnet.microsoft.com/) desktop module to enroll prisoners, including biometric information; a backend that serves as a [Spring Web Service](https://spring.io/projects/spring-ws) operating with the SOAP protocol; and an administrative web portal that provides efficient searching and configuration of the system.
 
 I was a lead developer in this project, primarily responsible for the administrative portal and backend web services. To develop this system, we leveraged frameworks such as Spring and Hibernate. The administrative portal was developed using an MVC pattern enabled by Spring MVC. Security in both the web service and the portal was tightened through Spring Security, and the front end was designed using Bootstrap and JavaScript.
@@ -33,6 +39,9 @@ I was a lead developer in this project, primarily responsible for the administra
 
 
 Similar to the Prison Inmate System, this project was also accomplished during my time at TigerIT Bangladesh Ltd. It had three distinct modules: a .NET desktop client, an administrative portal, and a backend web service. I was primarily involved in the development of the desktop client responsible for capturing the demographic and biometric information of users. To that end, I implemented this module using frameworks such as .NET and [NHibernate](https://nhibernate.info/). I also worked with the APIs of various biometric devices, including fingerprint scanners, iris scanners, document scanners, and signature pads, to integrate them with our enrollment system.
+
+</details>
+
 
 
 
