@@ -29,6 +29,15 @@ As part of my role as a software engineer at [TigerIT Bangladesh Ltd.](https://w
 
 I was a lead developer in this project, primarily responsible for the administrative portal and backend web services. To develop this system, we leveraged frameworks such as Spring and Hibernate. The administrative portal was developed using an MVC pattern enabled by Spring MVC. Security in both the web service and the portal was tightened through Spring Security, and the front end was designed using Bootstrap and JavaScript.
 
+#### [Machine Readable Passport System for Nepal Government](https://kathmandupost.com/valley/2015/11/24/machine-readable-passport-live-enrolment-service-begins){:target="_blank" rel="noopener"}
+
+
+Similar to the Prison Inmate System, this project was also accomplished during my time at TigerIT Bangladesh Ltd. It had three distinct modules: a .NET desktop client, an administrative portal, and a backend web service. I was primarily involved in the development of the desktop client responsible for capturing the demographic and biometric information of users. To that end, I implemented this module using frameworks such as .NET and [NHibernate](https://nhibernate.info/). I also worked with the APIs of various biometric devices, including fingerprint scanners, iris scanners, document scanners, and signature pads, to integrate them with our enrollment system.
+
+
+
+
+
 ## Academic Projects
 #### [Delta Debugging](https://github.com/sayemimtiaz/delta_debugging){:target="_blank" rel="noopener"}
 
