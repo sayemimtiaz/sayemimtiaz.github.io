@@ -5,8 +5,7 @@ permalink: /projects/
 published: true
 ---
 
-<details>
-  <summary><b>Research Projects</b></summary>
+## Research Projects
   
 #### [Boa Python](https://github.com/boalang/compiler/tree/pydatagen){:target="_blank" rel="noopener"}
 
@@ -27,8 +26,7 @@ During my time at [Mississippi State University](https://www.msstate.edu/), I de
 </details>
 
 
-<details>
-  <summary><b>Industrial Projects</b></summary>
+## Industrial Projects
 
   #### [Prison Inmate Database System](https://www.thedailystar.net/city/database-prisoners-launched-rab-hq-214240){:target="_blank" rel="noopener"}
 As part of my role as a software engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/), I worked on a number of industrial-scale projects, including the prison inmate system. In this project, we developed a comprehensive system for efficiently indexing prisoners, overseen by the Rapid Action Battalion (RAB), a law-enforcing agency in Bangladesh. The project has three distinct modules: a [.NET](https://dotnet.microsoft.com/) desktop module to enroll prisoners, including biometric information; a backend that serves as a [Spring Web Service](https://spring.io/projects/spring-ws) operating with the SOAP protocol; and an administrative web portal that provides efficient searching and configuration of the system.
@@ -39,10 +37,6 @@ I was a lead developer in this project, primarily responsible for the administra
 
 
 Similar to the Prison Inmate System, this project was also accomplished during my time at TigerIT Bangladesh Ltd. It had three distinct modules: a .NET desktop client, an administrative portal, and a backend web service. I was primarily involved in the development of the desktop client responsible for capturing the demographic and biometric information of users. To that end, I implemented this module using frameworks such as .NET and [NHibernate](https://nhibernate.info/). I also worked with the APIs of various biometric devices, including fingerprint scanners, iris scanners, document scanners, and signature pads, to integrate them with our enrollment system.
-
-</details>
-
-
 
 
 
