@@ -4,6 +4,7 @@ layout: default
 permalink: /logs/
 published: true
 ---
+- **September 2024** - Going to serve as a program committee member for the [ICSE 2025 artifact track](https://conf.researchr.org/committee/icse-2025/icse-2025-artifact-evaluation-artifact-evaluation).
 - **May 2024** - Passed PhD Preliminary exam. Officially a PhD candidate now!
 - **May 2024** - Earned a second [Master's in Computer Science](https://www.cs.iastate.edu/ms-final-oral-exam-sayem-mohammad-imtiaz), focusing on deep learning model evolution in my thesis!
 - **May 2024** - Our position paper, *Engineering Deep Learning Models Through Decomposition, Modularization, and Interface Specifications*, was accepted for discussion at the [SE 2030 workshop collocated with FSE 2024](https://conf.researchr.org/home/2030-se).
