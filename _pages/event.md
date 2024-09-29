@@ -4,6 +4,7 @@ layout: default
 permalink: /logs/
 published: true
 ---
+- **September 2024** - Going to serve as a junior program committee member for the [Mining Software Repositories 2025](https://2025.msrconf.org/).
 - **September 2024** - Going to serve as a program committee member for the [ICSE 2025 artifact track](https://conf.researchr.org/committee/icse-2025/icse-2025-artifact-evaluation-artifact-evaluation).
 - **May 2024** - Passed PhD Preliminary exam. Officially a PhD candidate now!
 - **May 2024** - Earned a second [Master's in Computer Science](https://www.cs.iastate.edu/ms-final-oral-exam-sayem-mohammad-imtiaz), focusing on deep learning model evolution in my thesis!
