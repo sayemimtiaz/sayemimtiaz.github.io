@@ -4,6 +4,7 @@ layout: default
 permalink: /logs/
 published: true
 ---
+- **October 2024** - Defended my [PhD dissertation successfully](https://www.cs.iastate.edu/phd-final-oral-exam-sayem-mohammad-imtiaz) at Iowa State University!
 - **September 2024** - Going to serve as a junior program committee member for the [Mining Software Repositories 2025](https://2025.msrconf.org/).
 - **September 2024** - Started working as a *data scientist intern* at [SoilSerdem](https://soilserdem.com/).
 - **September 2024** - Going to serve as a program committee member for the [ICSE 2025 artifact track](https://conf.researchr.org/committee/icse-2025/icse-2025-artifact-evaluation-artifact-evaluation).
