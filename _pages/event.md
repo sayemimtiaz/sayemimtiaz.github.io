@@ -4,6 +4,7 @@ layout: default
 permalink: /logs/
 published: true
 ---
+- **January 2025** - Joined [Tulane University](https://tulane.edu/) as a Postdoctoral Fellow under the guidance of [Dr. Hridesh Rajan](https://hridesh.github.io/)!  
 - **October 2024** - Defended my [PhD dissertation successfully](https://www.cs.iastate.edu/phd-final-oral-exam-sayem-mohammad-imtiaz) at Iowa State University!
 - **September 2024** - Going to serve as a junior program committee member for the [Mining Software Repositories 2025](https://2025.msrconf.org/).
 - **September 2024** - Started working as a *applied scientist intern* at [SoilSerdem](https://soilserdem.com/).
