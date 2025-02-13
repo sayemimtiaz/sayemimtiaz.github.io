@@ -8,7 +8,7 @@ published: true
 ### Conference Papers
 
 #### 2025
-- **Sayem Mohammad Imtiaz**, Astha Singh, Fraol Batole, and Hridesh Rajan. “*IRepair: An Intent-Aware Approach to Mitigate Data-Driven Errors in LLMs*.” The ACM International Conference on the Foundations of Software Engineering (FSE), Trondheim, Norway, 2025 [[Link](https://conf.researchr.org/track/fse-2025/fse-2025-research-papers){:target="_blank" rel="noopener"}]
+- **Sayem Mohammad Imtiaz**, Astha Singh, Fraol Batole, and Hridesh Rajan. “*IRepair: An Intent-Aware Approach to Mitigate Data-Driven Errors in LLMs*.” The ACM International Conference on the Foundations of Software Engineering (FSE), Trondheim, Norway, 2025 [[Link](https://arxiv.org/abs/2502.07072){:target="_blank" rel="noopener"}]
 
 #### 2024
 - David OBrien, Sumon Biswas, **Sayem Mohammad Imtiaz**, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan. “*Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot*”. Proceedings of the 46th IEEE/ACM International Conference on Software Engineering, Lisbon, Portugal, 2024 [[Link](https://sumonbis.github.io/uploads/td-copilot-ICSE24.pdf){:target="_blank" rel="noopener"}]
