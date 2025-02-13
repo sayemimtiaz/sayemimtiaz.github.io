@@ -4,6 +4,7 @@ layout: default
 permalink: /logs/
 published: true
 ---
+- **February 2025** - Excited to share that I will be joining as a Machine Learning Research Scientist at Meta!
 - **January 2025** - Excited to share that our paper on repairing LLMs in an intent-aware way has been accepted at the research track of [ACM International Conference on the Foundations of Software Engineering (FSE 2025)](https://conf.researchr.org/home/fse-2025).
 - **January 2025** - Joined [Tulane University](https://tulane.edu/) as a Postdoctoral Fellow under the guidance of [Dr. Hridesh Rajan](https://hridesh.github.io/)!  
 - **October 2024** - Defended my [PhD dissertation successfully](https://www.cs.iastate.edu/phd-final-oral-exam-sayem-mohammad-imtiaz) at Iowa State University!
