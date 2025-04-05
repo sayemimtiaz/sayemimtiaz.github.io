@@ -1,10 +1,10 @@
 ### your site title here
 title: Sayem Mohammad Imtiaz
-description: Postdoctoral Fellow at Tulane University
+description: Research Scientist at Meta
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: sayem@iastate.edu
+email: imtiaz.cuet@gmail.com
 
 highlighter: rouge
 markdown: kramdown
